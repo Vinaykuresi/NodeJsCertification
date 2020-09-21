@@ -1,0 +1,203 @@
+Mon Sep 21 2020 Error: The name must not be null
+    at Object.validator.validateName (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\utilities\validator.js:5:19)
+    at Object.exports.registerUser (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:28:20)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\routes\router.js:18:14
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+Mon Sep 21 2020 Error: The name must not be null
+    at Object.validator.validateName (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\utilities\validator.js:5:19)
+    at Object.exports.registerUser (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:29:20)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\routes\router.js:18:14
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+Mon Sep 21 2020 Error: The name must not be null
+    at Object.validator.validateName (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\utilities\validator.js:5:19)
+    at Object.exports.registerUser (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:29:20)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\routes\router.js:18:14
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+Mon Sep 21 2020 Error: The name must not be null
+    at Object.validator.validateName (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\utilities\validator.js:5:19)
+    at Object.exports.registerUser (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:29:20)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\routes\router.js:18:14
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+Mon Sep 21 2020 TypeError: number.match is not a function
+    at Object.validator.validatePhoneNumber (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\utilities\validator.js:12:16)
+    at Object.exports.registerUser (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:32:20)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\routes\router.js:18:14
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+Mon Sep 21 2020 TypeError: number.match is not a function
+    at Object.validator.validatePhoneNumber (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\utilities\validator.js:12:16)
+    at Object.exports.registerUser (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:32:20)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\routes\router.js:19:14
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+Mon Sep 21 2020 TypeError: number.match is not a function
+    at Object.validator.validatePhoneNumber (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\utilities\validator.js:12:16)
+    at Object.exports.registerUser (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:32:20)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\routes\router.js:19:14
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+Mon Sep 21 2020 TypeError: number.match is not a function
+    at Object.validator.validatePhoneNumber (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\utilities\validator.js:12:16)
+    at Object.exports.registerUser (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:31:20)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\routes\router.js:19:14
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+Mon Sep 21 2020 Error: Unable to load the package details!! Please try again...
+    at Object.exports.viewPackageDetails (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:76:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Mon Sep 21 2020 TypeError: Cannot read property 'shiftingType' of undefined
+    at Object.exports.bookaslot (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:85:53)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\routes\router.js:48:14
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:275:10)
+Mon Sep 21 2020 Error: Unable to book the slot, please try later...
+    at Object.exports.bookaslot (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:106:23)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at runNextTicks (internal/process/task_queues.js:62:3)
+    at processImmediate (internal/timers.js:412:9)
+Mon Sep 21 2020 Error: Invalid path requests!!
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\routes\router.js:77:15
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\node_modules\express\lib\router\index.js:335:12)
+Mon Sep 21 2020 Error: User already Exists
+    at Object.exports.registerUser (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:53:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at runNextTicks (internal/process/task_queues.js:62:3)
+    at processImmediate (internal/timers.js:412:9)
+Mon Sep 21 2020 Error: No such user. Please check your credentials.
+    at Object.exports.bookaslot (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:115:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at runNextTicks (internal/process/task_queues.js:62:3)
+    at processImmediate (internal/timers.js:412:9)
+Mon Sep 21 2020 Error: User already Exists
+    at Object.exports.registerUser (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:69:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at runNextTicks (internal/process/task_queues.js:62:3)
+    at processImmediate (internal/timers.js:412:9)
+Mon Sep 21 2020 Error: Unable to book the slot, please try later...
+    at Object.exports.bookaslot (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:144:23)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at runNextTicks (internal/process/task_queues.js:62:3)
+    at processImmediate (internal/timers.js:412:9)
+Mon Sep 21 2020 Error: Unable to book the slot, please try later...
+    at Object.exports.bookaslot (C:\Users\vinay\Documents\Infosys Nodejs Certification\NodejsApi\services\users.js:145:23)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at runNextTicks (internal/process/task_queues.js:62:3)
+    at processImmediate (internal/timers.js:412:9)

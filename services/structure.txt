@@ -1,0 +1,17 @@
+// Register user input
+{
+    "name":"",
+    "emailid":"",
+    "password":"",
+    "phoneno":""
+}
+
+// Book a slot input structure
+{
+    "emailid":"",
+    "bookings":{
+        "shiftingFrom":"",
+        "shiftingTo":"",
+        "shiftingType":""
+    }
+}
